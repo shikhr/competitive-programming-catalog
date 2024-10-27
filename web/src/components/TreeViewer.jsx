@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-
 import { useState, useEffect } from 'react';
 import {
   ChevronRight,
@@ -31,49 +30,49 @@ const TreeNode = ({ data, isDarkMode }) => {
     >
       <div
         onClick={toggleExpand}
-        className={`flex items-center select-none cursor-pointer gap-2 py-1 hover:bg-gray-100 rounded px-2 ${
+        className={`flex flex-col select-none cursor-pointer py-1 hover:bg-gray-100 rounded px-2 ${
           isDarkMode ? 'hover:bg-gray-700' : 'hover:bg-gray-200'
         }`}
       >
-        {hasChildren ? (
-          <button
-            className={`p-1 hover:bg-gray-200 rounded ${
-              isDarkMode ? 'hover:bg-gray-700' : ''
-            }`}
-          >
-            {isExpanded ? (
-              <ChevronDown className="w-4 h-4" />
-            ) : (
-              <ChevronRight className="w-4 h-4" />
-            )}
-          </button>
-        ) : (
-          <span className="w-6" />
-        )}
-        {data.type === 'folder' ? (
-          <Folder
-            className={`w-4 h-4 ${
-              isDarkMode ? 'text-blue-400' : 'text-blue-500'
-            }`}
-          />
-        ) : (
-          <FileText
-            className={`w-4 h-4 ${
-              isDarkMode ? 'text-gray-400' : 'text-gray-500'
-            }`}
-          />
-        )}
-        <span className="font-medium">{data.title || data.name}</span>
-        {data.subtitle && (
-          <>
-            <span
-              className={`text-sm ${
-                isDarkMode ? 'text-gray-400' : 'text-gray-600'
+        <div className="flex items-center gap-2 md:text-lg">
+          {hasChildren ? (
+            <button
+              className={`p-1 hover:bg-gray-200 rounded ${
+                isDarkMode ? 'hover:bg-gray-700' : ''
               }`}
             >
-              {data.subtitle}
-            </span>
-          </>
+              {isExpanded ? (
+                <ChevronDown className="w-4 h-4" />
+              ) : (
+                <ChevronRight className="w-4 h-4" />
+              )}
+            </button>
+          ) : (
+            <span className="w-6" />
+          )}
+          {data.type === 'folder' ? (
+            <Folder
+              className={`w-4 h-4 ${
+                isDarkMode ? 'text-blue-400' : 'text-blue-500'
+              }`}
+            />
+          ) : (
+            <FileText
+              className={`w-4 h-4 ${
+                isDarkMode ? 'text-gray-400' : 'text-gray-500'
+              }`}
+            />
+          )}
+          <span className="font-medium">{data.title || data.name}</span>
+        </div>
+        {data.subtitle && (
+          <p
+            className={`text-sm ml-11 mt-1 ${
+              isDarkMode ? 'text-gray-400' : 'text-gray-600'
+            }`}
+          >
+            {data.subtitle}
+          </p>
         )}
       </div>
 
@@ -116,7 +115,6 @@ const TreeNode = ({ data, isDarkMode }) => {
 const TreeViewer = ({ isDarkMode }) => {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
-  // const [error, setError] = useState(null);
 
   useEffect(() => {
     setData(jdata);
@@ -132,14 +130,6 @@ const TreeViewer = ({ isDarkMode }) => {
     );
   }
 
-  // if (error) {
-  //   return (
-  //     <div className="flex items-center justify-center h-screen text-red-500">
-  //       <p>Error loading catalog: {error}</p>
-  //     </div>
-  //   );
-  // }
-
   if (!data) {
     return (
       <div className="flex items-center justify-center h-screen">
@@ -150,18 +140,18 @@ const TreeViewer = ({ isDarkMode }) => {
 
   return (
     <div
-      className={`max-w-4xl mx-auto p-6 ${
+      className={`max-w-4xl mx-auto md:p-6 ${
         isDarkMode ? 'bg-gray-900 text-gray-200' : 'bg-white text-black'
       }`}
     >
-      <h1 className="text-2xl font-bold mb-6 text-center">
+      <h1 className="text-2xl font-bold mb-6 mt-4 text-center">
         Codeforces Catalog
       </h1>
 
       <div
-        className={`border rounded-lg p-4 ${
-          isDarkMode ? 'bg-gray-800 border-gray-700' : 'bg-white'
-        } shadow`}
+        className={`md:border md:rounded-lg p-2 pl-0 md:p-4 ${
+          isDarkMode ? 'bg-gray-800 md:border-gray-700' : 'bg-white'
+        } md:shadow`}
       >
         {data.children.map((child, index) => (
           <TreeNode key={index} data={child} isDarkMode={isDarkMode} />
