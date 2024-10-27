@@ -1,0 +1,2431 @@
+{
+  "type": "root",
+  "children": [
+    {
+      "type": "folder",
+      "name": "General Advice",
+      "title": "General Advice",
+      "subtitle": "",
+      "children": [
+        {
+          "type": "folder",
+          "name": "How to come up with solutions?",
+          "title": "How to come up with solutions?",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "How to read problem statements",
+              "link": "https://codeforces.com/blog/entry/62730"
+            },
+            {
+              "type": "blog",
+              "title": "How to come up with the solutions: techniques",
+              "link": "https://codeforces.com/blog/entry/20548"
+            },
+            {
+              "type": "blog",
+              "title": "Characteristics of the optimal solution, a technique for finding observations in a problem",
+              "link": "https://codeforces.com/blog/entry/99291"
+            },
+            {
+              "type": "blog",
+              "title": "On \"is this greedy or DP\", forcing and rubber bands",
+              "link": "https://codeforces.com/blog/entry/106346"
+            },
+            {
+              "type": "blog",
+              "title": "How to prove your solutions in Competitive Programming",
+              "link": "https://codeforces.com/blog/entry/111849"
+            },
+            {
+              "type": "blog",
+              "title": "The Reason You are Bad at Codeforces — You are Not Russian Enough",
+              "link": "https://codeforces.com/blog/entry/126310"
+            },
+            {
+              "type": "blog",
+              "title": "All You Need is Randomly Guessing — How to Improve at Codeforces",
+              "link": "https://codeforces.com/blog/entry/126875"
+            },
+            {
+              "type": "blog",
+              "title": "How to Solve Questions [Dominater Version]",
+              "link": "https://codeforces.com/blog/entry/133289"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "How to practice?",
+          "title": "How to practice?",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "F.A.Q. (in PM)",
+              "link": "https://codeforces.com/blog/entry/47516"
+            },
+            {
+              "type": "blog",
+              "title": "My opinion on how to practice competitive programming",
+              "link": "https://codeforces.com/blog/entry/91114"
+            },
+            {
+              "type": "blog",
+              "title": "Self-deception: maybe why you're still grey after practicing every day",
+              "link": "https://codeforces.com/blog/entry/98621"
+            },
+            {
+              "type": "blog",
+              "title": "How to practice Competitive Programming [Um_nik version]",
+              "link": "https://codeforces.com/blog/entry/98806"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] A way to Practice Competitive Programming : From Rating 1000 to 2400+",
+              "link": "https://codeforces.com/blog/entry/66909"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] How to learn better, and what most people don't get about learning",
+              "link": "https://codeforces.com/blog/entry/111644"
+            },
+            {
+              "type": "blog",
+              "title": "Pro Tips - get them while they are free",
+              "link": "https://codeforces.com/blog/entry/113785"
+            },
+            {
+              "type": "blog",
+              "title": "How to Effectively Practice CP + Problem Solving Guide",
+              "link": "https://codeforces.com/blog/entry/116371"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "How to ask for help?",
+          "title": "How to ask for help?",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "How to ask for help in PM",
+              "link": "https://codeforces.com/blog/entry/83672"
+            },
+            {
+              "type": "blog",
+              "title": "Asking for help FAQ",
+              "link": "https://codeforces.com/blog/entry/64993"
+            },
+            {
+              "type": "blog",
+              "title": "What not to say when you are accused of cheating",
+              "link": "https://codeforces.com/blog/entry/115267"
+            }
+          ]
+        }
+      ],
+      "blog_entries": [
+        {
+          "type": "blog",
+          "title": "How to use Codeforces [GUIDE]",
+          "link": "https://codeforces.com/blog/entry/99660"
+        },
+        {
+          "type": "blog",
+          "title": "[Tutorial] The command line: how to read input from file without #ifdef and much more",
+          "link": "https://codeforces.com/blog/entry/102287"
+        },
+        {
+          "type": "blog",
+          "title": "After a Round FAQ",
+          "link": "https://codeforces.com/blog/entry/103654"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Algorithms",
+      "title": "Algorithms",
+      "subtitle": "",
+      "children": [
+        {
+          "type": "folder",
+          "name": "GeneralGeneral discussions that cannot be attributed to a specific topic",
+          "title": "General",
+          "subtitle": "General discussions that cannot be attributed to a specific topic",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "The Ultimate Topic List (with Resources, Problems and Templates)",
+              "link": "https://codeforces.com/blog/entry/95106"
+            },
+            {
+              "type": "blog",
+              "title": "General ideas",
+              "link": "https://codeforces.com/blog/entry/48417"
+            },
+            {
+              "type": "blog",
+              "title": "A bit more of general ideas",
+              "link": "https://codeforces.com/blog/entry/104466"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Collection of little techniques",
+              "link": "https://codeforces.com/blog/entry/100910"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Binary and Ternary Searches",
+          "title": "Binary and Ternary Searches",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "EDU: Binary Search",
+              "link": "https://codeforces.com/blog/entry/81729"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Binary search and other \"halving\" methods",
+              "link": "https://codeforces.com/blog/entry/96699"
+            },
+            {
+              "type": "blog",
+              "title": "Bin search and relative error",
+              "link": "https://codeforces.com/blog/entry/49189"
+            },
+            {
+              "type": "blog",
+              "title": "Multi-dimensional ternary search",
+              "link": "https://codeforces.com/blog/entry/98524"
+            },
+            {
+              "type": "blog",
+              "title": "Parallel Binary Search [tutorial]",
+              "link": "https://codeforces.com/blog/entry/45578"
+            },
+            {
+              "type": "blog",
+              "title": "An alternative and very interesting approach on binary search",
+              "link": "https://codeforces.com/blog/entry/76182"
+            },
+            {
+              "type": "blog",
+              "title": "Binary Lifting, No Memory Wasted",
+              "link": "https://codeforces.com/blog/entry/74847"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Constructive Algorithms",
+          "title": "Constructive Algorithms",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "Tips on Constructive Algorithms",
+              "link": "https://codeforces.com/blog/entry/80317"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Data Structures",
+          "title": "Data Structures",
+          "subtitle": "",
+          "children": [
+            {
+              "type": "folder",
+              "name": "Fenwick TreeBIT",
+              "title": "Fenwick Tree",
+              "subtitle": "BIT",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Searching Binary Indexed Tree in O(log(N)) using Binary Lifting",
+                  "link": "https://codeforces.com/blog/entry/61364"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Path sum queries on a tree using a Fenwick tree",
+                  "link": "https://codeforces.com/blog/entry/78564"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] A Bit of Math, Historic Sum, and Range Add Range Sum Binary Indexed Tree (Fenwick Tree)",
+                  "link": "https://codeforces.com/blog/entry/99895"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Segment Tree",
+              "title": "Segment Tree",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "EDU: Segment Tree, part 1",
+                  "link": "https://codeforces.com/blog/entry/80031"
+                },
+                {
+                  "type": "blog",
+                  "title": "Algorithm Gym :: Everything About Segment Trees",
+                  "link": "https://codeforces.com/blog/entry/15890"
+                },
+                {
+                  "type": "blog",
+                  "title": "Efficient and easy segment trees",
+                  "link": "https://codeforces.com/blog/entry/18051"
+                },
+                {
+                  "type": "blog",
+                  "title": "crazySegmentTree: Segment Tree implementation with 5x faster queries than bottom-up tree",
+                  "link": "https://codeforces.com/blog/entry/89399"
+                },
+                {
+                  "type": "blog",
+                  "title": "Compressed segment trees and merging sets in O(N logU)",
+                  "link": "https://codeforces.com/blog/entry/83170"
+                },
+                {
+                  "type": "blog",
+                  "title": "A simple introduction to \"Segment tree beats\"",
+                  "link": "https://codeforces.com/blog/entry/57319"
+                },
+                {
+                  "type": "blog",
+                  "title": "Video: Segment Tree Beats",
+                  "link": "https://codeforces.com/blog/entry/90460"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Li Chao Tree Extended",
+                  "link": "https://codeforces.com/blog/entry/86731"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Li Chao Tree Extended 2",
+                  "link": "https://codeforces.com/blog/entry/130766"
+                },
+                {
+                  "type": "blog",
+                  "title": "using merging segment tree to solve problems about sorted list",
+                  "link": "https://codeforces.com/blog/entry/49446"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] XOR Segment Tree",
+                  "link": "https://codeforces.com/blog/entry/105723"
+                },
+                {
+                  "type": "blog",
+                  "title": "Push-Free Segment Tree",
+                  "link": "https://codeforces.com/blog/entry/112890"
+                },
+                {
+                  "type": "blog",
+                  "title": "A Slight Generalization of Push-Free Segment Trees",
+                  "link": "https://codeforces.com/blog/entry/125275"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Binary Search TreesCartesian trees, AVL-trees, etc",
+              "title": "Binary Search Trees",
+              "subtitle": "Cartesian trees, AVL-trees, etc",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "Algorithms Thread 9: Treaps (+ Gym Contest!)",
+                  "link": "https://codeforces.com/blog/entry/84017"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Splay Tree: One Tree to Rule Them All",
+                  "link": "https://codeforces.com/blog/entry/108457"
+                },
+                {
+                  "type": "blog",
+                  "title": "\"Merging treaps\" -- or how to merge sorted sets in good complexity...",
+                  "link": "https://codeforces.com/blog/entry/108601"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Cartesian tree and some related problems",
+                  "link": "https://codeforces.com/blog/entry/112664"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Connectivity Queries",
+              "title": "Connectivity Queries",
+              "subtitle": "",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "Disjoint Set UnionDSU",
+                  "title": "Disjoint Set Union",
+                  "subtitle": "DSU",
+                  "children": [],
+                  "blog_entries": [
+                    {
+                      "type": "blog",
+                      "title": "EDU: DSU",
+                      "link": "https://codeforces.com/blog/entry/82413"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] Proving the inverse Ackermann complexity of Union-Find",
+                      "link": "https://codeforces.com/blog/entry/98275"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "Link-Cut Trees",
+                  "title": "Link-Cut Trees",
+                  "subtitle": "",
+                  "children": [],
+                  "blog_entries": [
+                    {
+                      "type": "blog",
+                      "title": "Link-cut tree tutorial",
+                      "link": "https://codeforces.com/blog/entry/80383"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Maintain subtree information using link/cut trees",
+                      "link": "https://codeforces.com/blog/entry/67637"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] Subtree lazy propagation on the link-cut tree",
+                      "link": "https://codeforces.com/blog/entry/80145"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Link Cut Tree implementation",
+                      "link": "https://codeforces.com/blog/entry/75885"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] Online Dynamic Connectivity",
+                      "link": "https://codeforces.com/blog/entry/128556"
+                    }
+                  ]
+                }
+              ],
+              "blog_entries": []
+            },
+            {
+              "type": "folder",
+              "name": "Persistence",
+              "title": "Persistence",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "AlgorithmsThread 5: Persistent Data Structures",
+                  "link": "https://codeforces.com/blog/entry/79669"
+                }
+              ]
+            }
+          ],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "Algorithm Gym :: Data structures",
+              "link": "https://codeforces.com/blog/entry/15729"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Supporting Queue-like Undoing on DS",
+              "link": "https://codeforces.com/blog/entry/83467"
+            },
+            {
+              "type": "blog",
+              "title": "Video about Disjoint Sparse Table or how to answer all queries in constant time",
+              "link": "https://codeforces.com/blog/entry/87940"
+            },
+            {
+              "type": "blog",
+              "title": "On Multidimensional Range Queries",
+              "link": "https://codeforces.com/blog/entry/71038"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] A powerful representation of integer sets",
+              "link": "https://codeforces.com/blog/entry/83969"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Kinetic Tournament (Used in FBHC Round 2)",
+              "link": "https://codeforces.com/blog/entry/82094"
+            },
+            {
+              "type": "blog",
+              "title": "Tutorial on Permutation Tree (析合树）",
+              "link": "https://codeforces.com/blog/entry/78898"
+            },
+            {
+              "type": "blog",
+              "title": "Introduction to New Data Structure: Wavelet Trees",
+              "link": "https://codeforces.com/blog/entry/52854"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Sparse table",
+              "link": "https://codeforces.com/blog/entry/101083"
+            },
+            {
+              "type": "blog",
+              "title": "Submask range queries",
+              "link": "https://codeforces.com/blog/entry/103799"
+            },
+            {
+              "type": "blog",
+              "title": "A slightly alternative approach for implementation of optimal LCA",
+              "link": "https://codeforces.com/blog/entry/67138"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Supporting Priority-Queue-like Undoing on DS",
+              "link": "https://codeforces.com/blog/entry/111117"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] On Range LIS Queries, Part 1",
+              "link": "https://codeforces.com/blog/entry/111625"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] On Range LIS Queries, Part 2",
+              "link": "https://codeforces.com/blog/entry/111807"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Minimum Deque",
+              "link": "https://codeforces.com/blog/entry/122003"
+            },
+            {
+              "type": "blog",
+              "title": "“Log Decomposition”, a technique to insert random elements into sorted data structures",
+              "link": "https://codeforces.com/blog/entry/124766"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] The sparse set data structure",
+              "link": "https://codeforces.com/blog/entry/127472"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Divide-and-conquer",
+          "title": "Divide-and-conquer",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "Dynamic connectivity problem",
+              "link": "https://codeforces.com/blog/entry/15296"
+            },
+            {
+              "type": "blog",
+              "title": "Divide and conquer. Dynamic connectivity offline and DP optimization. Divide and conquer by queries.",
+              "link": "https://codeforces.com/blog/entry/104443"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Divide and Conquer Offline Query — A Niche Way to solve Static Range Query",
+              "link": "https://codeforces.com/blog/entry/119104"
+            },
+            {
+              "type": "blog",
+              "title": "The Akra-Bazzi theorem — a generalization of the master theorem for recurrences",
+              "link": "https://codeforces.com/blog/entry/123452"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Dynamic ProgrammingDP",
+          "title": "Dynamic Programming",
+          "subtitle": "DP",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "[Tutorial] Non-trivial DP Tricks and Techniques",
+              "link": "https://codeforces.com/blog/entry/47764"
+            },
+            {
+              "type": "blog",
+              "title": "Slope trick explained",
+              "link": "https://codeforces.com/blog/entry/77298"
+            },
+            {
+              "type": "blog",
+              "title": "An Introduction to Plug DP",
+              "link": "https://codeforces.com/blog/entry/90841"
+            },
+            {
+              "type": "blog",
+              "title": "Dynamic Programming Optimizations",
+              "link": "https://codeforces.com/blog/entry/8219"
+            },
+            {
+              "type": "blog",
+              "title": "SOS Dynamic Programming [Tutorial]",
+              "link": "https://codeforces.com/blog/entry/45223"
+            },
+            {
+              "type": "blog",
+              "title": "Incredibly beautiful DP optimization from N^3 to N log^2 N",
+              "link": "https://codeforces.com/blog/entry/49691"
+            },
+            {
+              "type": "blog",
+              "title": "Theoretical grounds of lambda optimization",
+              "link": "https://codeforces.com/blog/entry/98334"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Knapsack, Subset Sum and the (max,+) Convolution",
+              "link": "https://codeforces.com/blog/entry/98663"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial]Using Segment Trees to solve Dynamic Programming problems",
+              "link": "https://codeforces.com/blog/entry/101210"
+            },
+            {
+              "type": "blog",
+              "title": "1D1D-optimization",
+              "link": "https://codeforces.com/blog/entry/93772"
+            },
+            {
+              "type": "blog",
+              "title": "An interesting way to solve 739E",
+              "link": "https://codeforces.com/blog/entry/50036"
+            },
+            {
+              "type": "blog",
+              "title": "SMAWK algorithm as an alternative for D&C optimization",
+              "link": "https://codeforces.com/blog/entry/110844"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Geometry",
+          "title": "Geometry",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "[Tutorial] Voronoi Diagram and Delaunay Triangulation in O(n log n) with Fortune's Algorithm",
+              "link": "https://codeforces.com/blog/entry/85638"
+            },
+            {
+              "type": "blog",
+              "title": "O(n) algorithm for finding largest triangle in a convex is wrong?",
+              "link": "https://codeforces.com/blog/entry/52341"
+            },
+            {
+              "type": "blog",
+              "title": "Efficient 3D Convex Hull Tutorial",
+              "link": "https://codeforces.com/blog/entry/81768"
+            },
+            {
+              "type": "blog",
+              "title": "Dynamic convex hull implementation",
+              "link": "https://codeforces.com/blog/entry/75929"
+            },
+            {
+              "type": "blog",
+              "title": "Geometry: Polygon algorithms",
+              "link": "https://codeforces.com/blog/entry/48868"
+            },
+            {
+              "type": "blog",
+              "title": "Half-plane intersection",
+              "link": "https://codeforces.com/blog/entry/61710"
+            },
+            {
+              "type": "blog",
+              "title": "Quaternion algebra and geometry",
+              "link": "https://codeforces.com/blog/entry/46744"
+            },
+            {
+              "type": "blog",
+              "title": "Easy geometry using std::complex",
+              "link": "https://codeforces.com/blog/entry/22175"
+            },
+            {
+              "type": "blog",
+              "title": "Geometry: 2D points and lines [Tutorial]",
+              "link": "https://codeforces.com/blog/entry/48122"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Solving Interval Problems with Geometry",
+              "link": "https://codeforces.com/blog/entry/98629"
+            },
+            {
+              "type": "blog",
+              "title": "AlgorithmsThread Episode 6: Convex Hull Tricks",
+              "link": "https://codeforces.com/blog/entry/79862"
+            },
+            {
+              "type": "blog",
+              "title": "Visualization tool for 2D problems (C++)",
+              "link": "https://codeforces.com/blog/entry/70330"
+            },
+            {
+              "type": "blog",
+              "title": "Some rotational invariants in geometry",
+              "link": "https://codeforces.com/blog/entry/99866"
+            },
+            {
+              "type": "blog",
+              "title": "Easy online point location algorithm",
+              "link": "https://codeforces.com/blog/entry/107901"
+            },
+            {
+              "type": "blog",
+              "title": "Tiny Dynamic Convex Hull Implementation",
+              "link": "https://codeforces.com/blog/entry/112458"
+            },
+            {
+              "type": "blog",
+              "title": "Pythagorean triples and Pell's equations",
+              "link": "https://codeforces.com/blog/entry/116313"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Rotating calipers technique and its applications",
+              "link": "https://codeforces.com/blog/entry/133763"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Games",
+          "title": "Games",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "A blog on the Sprague-Grundy Theorem",
+              "link": "https://codeforces.com/blog/entry/63054"
+            },
+            {
+              "type": "blog",
+              "title": "The Intuition Behind NIM and Grundy Numbers in Combinatorial Game Theory",
+              "link": "https://codeforces.com/blog/entry/66040"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Slight Generalization of Grundy Numbers",
+              "link": "https://codeforces.com/blog/entry/85984"
+            },
+            {
+              "type": "blog",
+              "title": "Nimbers and Sprague-Grundy theorem",
+              "link": "https://codeforces.com/blog/entry/103785"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Graphs",
+          "title": "Graphs",
+          "subtitle": "",
+          "children": [
+            {
+              "type": "folder",
+              "name": "Depth-first SearchDFS",
+              "title": "Depth-first Search",
+              "subtitle": "DFS",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] The DFS tree and its applications: how I found out I really didn't understand bridges",
+                  "link": "https://codeforces.com/blog/entry/68138"
+                },
+                {
+                  "type": "blog",
+                  "title": "My own algorithm — offline incremental strongly connected components in O(m*log(m))",
+                  "link": "https://codeforces.com/blog/entry/91608"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Directed DFS trees (and the Tarjan algorithm for Strongly Connected Components)",
+                  "link": "https://codeforces.com/blog/entry/131187"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Shortest Paths",
+              "title": "Shortest Paths",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "0-1 BFS [Tutorial]",
+                  "link": "https://codeforces.com/blog/entry/22276"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] k shortest paths and Eppstein's algorithm",
+                  "link": "https://codeforces.com/blog/entry/102085"
+                },
+                {
+                  "type": "blog",
+                  "title": "Rethink the Dijkstra algorithm -- Let's go deeper",
+                  "link": "https://codeforces.com/blog/entry/107810"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] The Floyd-Warshall algorithm and its generalizations",
+                  "link": "https://codeforces.com/blog/entry/117814"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Trees",
+              "title": "Trees",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "Algorithms Thread 8: Tree Basics (+ Gym Contest)",
+                  "link": "https://codeforces.com/blog/entry/81527"
+                },
+                {
+                  "type": "blog",
+                  "title": "A list of important concepts in Tree-based Problems",
+                  "link": "https://codeforces.com/blog/entry/88669"
+                },
+                {
+                  "type": "blog",
+                  "title": "Hybrid Tutorial #-1: Heavy-Light Decomposition",
+                  "link": "https://codeforces.com/blog/entry/81317"
+                },
+                {
+                  "type": "blog",
+                  "title": "Heavy-light decompositon — it can be simple!",
+                  "link": "https://codeforces.com/blog/entry/12239"
+                },
+                {
+                  "type": "blog",
+                  "title": "Easiest HLD with subtree queries",
+                  "link": "https://codeforces.com/blog/entry/53170"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Sack (dsu on tree)",
+                  "link": "https://codeforces.com/blog/entry/44351"
+                },
+                {
+                  "type": "blog",
+                  "title": "Hybrid Tutorial #-2: Centroid Decomposition",
+                  "link": "https://codeforces.com/blog/entry/81661"
+                },
+                {
+                  "type": "blog",
+                  "title": "Heavy-light decomposition implementation",
+                  "link": "https://codeforces.com/blog/entry/22072"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Path sum queries on a tree using a Fenwick tree",
+                  "link": "https://codeforces.com/blog/entry/78564"
+                },
+                {
+                  "type": "blog",
+                  "title": "Bridge Trees [Tutorial]",
+                  "link": "https://codeforces.com/blog/entry/99259"
+                },
+                {
+                  "type": "blog",
+                  "title": "Line tree",
+                  "link": "https://codeforces.com/blog/entry/71568"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Binary lifting",
+                  "link": "https://codeforces.com/blog/entry/100826"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Tree Isomorphism CSES",
+                  "link": "https://codeforces.com/blog/entry/101010"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Diameter of a tree and its applications",
+                  "link": "https://codeforces.com/blog/entry/101271"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Fully Dynamic Trees Supporting Path/Subtree Aggregates and Lazy Path/Subtree Updates",
+                  "link": "https://codeforces.com/blog/entry/103726"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Theoretically Faster HLD and Centroid Decomposition",
+                  "link": "https://codeforces.com/blog/entry/104997"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Insight] Number of Topological Orderings of a Directed Tree",
+                  "link": "https://codeforces.com/blog/entry/75627"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Idea] Using HLD to reduce memory",
+                  "link": "https://codeforces.com/blog/entry/113453"
+                },
+                {
+                  "type": "blog",
+                  "title": "Optimal 2/3 halving in interactive tree problems",
+                  "link": "https://codeforces.com/blog/entry/120446"
+                },
+                {
+                  "type": "blog",
+                  "title": "The Ultimate Reroot Template",
+                  "link": "https://codeforces.com/blog/entry/124286"
+                },
+                {
+                  "type": "blog",
+                  "title": "Shallowest Decomposition Tree",
+                  "link": "https://codeforces.com/blog/entry/125018"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Matchings",
+              "title": "Matchings",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Blossom Algorithm for General Matching in O(n^3)",
+                  "link": "https://codeforces.com/blog/entry/92339"
+                },
+                {
+                  "type": "blog",
+                  "title": "Randomized general matching with Tutte matrix",
+                  "link": "https://codeforces.com/blog/entry/92400"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Hungarian algorithm in Õ(mn) or O(n^3)",
+                  "link": "https://codeforces.com/blog/entry/128703"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Flows",
+              "title": "Flows",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "[Tutorial, Flows] Project Selection Problem",
+                  "link": "https://codeforces.com/blog/entry/101354"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] My way of understanding Dinitz's (\"Dinic's\") algorithm",
+                  "link": "https://codeforces.com/blog/entry/104960"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Minimum cost (maximum) flow",
+                  "link": "https://codeforces.com/blog/entry/105330"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] More about minimum cost flows: potentials and Dinitz",
+                  "link": "https://codeforces.com/blog/entry/105658"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Network simplex",
+                  "link": "https://codeforces.com/blog/entry/94190"
+                },
+                {
+                  "type": "blog",
+                  "title": "Kőnig's and Hall's theorems through minimum cut in bipartite graphs",
+                  "link": "https://codeforces.com/blog/entry/105697"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Simulating Cost Flow",
+                  "link": "https://codeforces.com/blog/entry/118391"
+                },
+                {
+                  "type": "blog",
+                  "title": "Implementing Dinitz on bipartite graphs",
+                  "link": "https://codeforces.com/blog/entry/118098"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] The residual graph and working with the set of all minimum cuts",
+                  "link": "https://codeforces.com/blog/entry/128552"
+                }
+              ]
+            }
+          ],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "Heuristic algorithm for Hamiltonian path in directed graphs",
+              "link": "https://codeforces.com/blog/entry/90513"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Graph Potentials, Johnson's Algorithm, and Min Cost Max Flow",
+              "link": "https://codeforces.com/blog/entry/95823"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Boruvka's Algorithm",
+              "link": "https://codeforces.com/blog/entry/77760"
+            },
+            {
+              "type": "blog",
+              "title": "Algorithm Gym :: Graph Algorithms",
+              "link": "https://codeforces.com/blog/entry/16221"
+            },
+            {
+              "type": "blog",
+              "title": "Traversing the complement graph in linear/near-linear time in multiple ways",
+              "link": "https://codeforces.com/blog/entry/93801"
+            },
+            {
+              "type": "blog",
+              "title": "Story about edge coloring of graph",
+              "link": "https://codeforces.com/blog/entry/75431"
+            },
+            {
+              "type": "blog",
+              "title": "Merging Queries Trick",
+              "link": "https://codeforces.com/blog/entry/100666"
+            },
+            {
+              "type": "blog",
+              "title": "A Brief Inquiry into Online Connectivity",
+              "link": "https://codeforces.com/blog/entry/121850"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Greedy Algorithms",
+          "title": "Greedy Algorithms",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "[Tutorial] Matroid intersection in simple words",
+              "link": "https://codeforces.com/blog/entry/69287"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Greedoids: a formal way to look at families of greedily-solvable problems",
+              "link": "https://codeforces.com/blog/entry/110961"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Hashing",
+          "title": "Hashing",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "Blowing up unordered_map, and how to stop getting hacked on it",
+              "link": "https://codeforces.com/blog/entry/62393"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Rolling hash and 8 interesting problems [Editorial]",
+              "link": "https://codeforces.com/blog/entry/60445"
+            },
+            {
+              "type": "blog",
+              "title": "On the mathematics behind rolling hashes and anti-hash tests",
+              "link": "https://codeforces.com/blog/entry/60442"
+            },
+            {
+              "type": "blog",
+              "title": "Analysis of polynomial hashing",
+              "link": "https://codeforces.com/blog/entry/100027"
+            },
+            {
+              "type": "blog",
+              "title": "Anti-hash test.",
+              "link": "https://codeforces.com/blog/entry/4898"
+            },
+            {
+              "type": "blog",
+              "title": "Kapun's algorithm",
+              "link": "https://codeforces.com/blog/entry/99973"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Hacking a weak hash",
+              "link": "https://codeforces.com/blog/entry/113484"
+            },
+            {
+              "type": "blog",
+              "title": "A tool for hacking rolling hashes with fixed modulos and bases",
+              "link": "https://codeforces.com/blog/entry/129538"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Mathematics",
+          "title": "Mathematics",
+          "subtitle": "",
+          "children": [
+            {
+              "type": "folder",
+              "name": "Bitwise Operations",
+              "title": "Bitwise Operations",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "Bitwise operations for beginners",
+                  "link": "https://codeforces.com/blog/entry/73490"
+                },
+                {
+                  "type": "blog",
+                  "title": "Bitwise operations 2 — popcount & bitsets",
+                  "link": "https://codeforces.com/blog/entry/73558"
+                },
+                {
+                  "type": "blog",
+                  "title": "A Beautiful Technique for Some XOR Related Problems",
+                  "link": "https://codeforces.com/blog/entry/68953"
+                },
+                {
+                  "type": "blog",
+                  "title": "XOR basis without linear algebra",
+                  "link": "https://codeforces.com/blog/entry/100066"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Number Theory",
+              "title": "Number Theory",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Generalized Möbius Inversion on Posets",
+                  "link": "https://codeforces.com/blog/entry/98413"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Catalan Numbers and Catalan Convolution",
+                  "link": "https://codeforces.com/blog/entry/87585"
+                },
+                {
+                  "type": "blog",
+                  "title": "Short modular inverse",
+                  "link": "https://codeforces.com/blog/entry/23365"
+                },
+                {
+                  "type": "blog",
+                  "title": "Counting Divisors of a Number in $O(N^{\\frac{1}{3}})$ [tutorial]",
+                  "link": "https://codeforces.com/blog/entry/22317"
+                },
+                {
+                  "type": "blog",
+                  "title": "Counting primes in $\\tilde{{\\cal O}}(n^{2/3}\\,\\,)$",
+                  "link": "https://codeforces.com/blog/entry/91632"
+                },
+                {
+                  "type": "blog",
+                  "title": "Finding minimum residue of a linear function in O(log M) time",
+                  "link": "https://codeforces.com/blog/entry/90690"
+                },
+                {
+                  "type": "blog",
+                  "title": "On the Min25 sieve and extensions / SPOJ ASSIEVE",
+                  "link": "https://codeforces.com/blog/entry/92703"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Math note — Möbius inversion",
+                  "link": "https://codeforces.com/blog/entry/53925"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Math note — Dirichlet convolution",
+                  "link": "https://codeforces.com/blog/entry/54150"
+                },
+                {
+                  "type": "blog",
+                  "title": "Essential Elementary Number Theory",
+                  "link": "https://codeforces.com/blog/entry/97623"
+                },
+                {
+                  "type": "blog",
+                  "title": "A slightly faster algorithm for finding square root modulo an odd prime",
+                  "link": "https://codeforces.com/blog/entry/98881"
+                },
+                {
+                  "type": "blog",
+                  "title": "On continued fractions. Part 3: In competitive programming",
+                  "link": "https://codeforces.com/blog/entry/101460"
+                },
+                {
+                  "type": "blog",
+                  "title": "p-adic exponent or why there is a primitive root modulo powers of prime numbers (except 2)",
+                  "link": "https://codeforces.com/blog/entry/103056"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Berlakamp's Algorithm for Polynomial Factorization in a Field (1698G buffed)",
+                  "link": "https://codeforces.com/blog/entry/104318"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Euler's phi function, its properties, and how to compute it",
+                  "link": "https://codeforces.com/blog/entry/106851"
+                },
+                {
+                  "type": "blog",
+                  "title": "Implicit Prime Factorisation",
+                  "link": "https://codeforces.com/blog/entry/108053"
+                },
+                {
+                  "type": "blog",
+                  "title": "Lucas Theorem",
+                  "link": "https://codeforces.com/blog/entry/121012"
+                },
+                {
+                  "type": "blog",
+                  "title": "Integer solutions to x² + y² = z",
+                  "link": "https://codeforces.com/blog/entry/116519"
+                },
+                {
+                  "type": "blog",
+                  "title": "Division-less Euclid's algorithm",
+                  "link": "https://codeforces.com/blog/entry/124218"
+                },
+                {
+                  "type": "blog",
+                  "title": "Some useful conclutions for some naive algorithms to solve number theory problem",
+                  "link": "https://codeforces.com/blog/entry/134127"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Probability Theory",
+              "title": "Probability Theory",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "Sums and Expected Value — part 1",
+                  "link": "https://codeforces.com/blog/entry/62690"
+                },
+                {
+                  "type": "blog",
+                  "title": "Sums and Expected Value — part 2",
+                  "link": "https://codeforces.com/blog/entry/62792"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Expected number of coin flips required to achieve a given string",
+                  "link": "https://codeforces.com/blog/entry/98808"
+                },
+                {
+                  "type": "blog",
+                  "title": "Intuition and application of Martingales",
+                  "link": "https://codeforces.com/blog/entry/110801"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Сombinatorics",
+              "title": "Сombinatorics",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Inclusion-Exclusion Principle",
+                  "link": "https://codeforces.com/blog/entry/64625"
+                },
+                {
+                  "type": "blog",
+                  "title": "Young Tableaus and the Hook Length Formula",
+                  "link": "https://codeforces.com/blog/entry/98167"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Burnside's lemma (with example)",
+                  "link": "https://codeforces.com/blog/entry/62401"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] Invariants and Monovariants",
+                  "link": "https://codeforces.com/blog/entry/57216"
+                },
+                {
+                  "type": "blog",
+                  "title": "Catalan Numbers and Generating Uniform Balanced Bracket Sequences",
+                  "link": "https://codeforces.com/blog/entry/103245"
+                },
+                {
+                  "type": "blog",
+                  "title": "An intuition and simpler proof for Kirchoff's tree theorem",
+                  "link": "https://codeforces.com/blog/entry/103329"
+                },
+                {
+                  "type": "blog",
+                  "title": "Lattice paths and Lindström–Gessel–Viennot lemma",
+                  "link": "https://codeforces.com/blog/entry/108395"
+                },
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] From Burnside to Polya: A Short Introduction to Group Theory",
+                  "link": "https://codeforces.com/blog/entry/118984"
+                },
+                {
+                  "type": "blog",
+                  "title": "MacMahon's master theorem",
+                  "link": "https://codeforces.com/blog/entry/122949"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Linear Algebra",
+              "title": "Linear Algebra",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "A Beautiful Technique for Some XOR Related Problems",
+                  "link": "https://codeforces.com/blog/entry/68953"
+                },
+                {
+                  "type": "blog",
+                  "title": "Linear Basis (Xor Basis Extended)",
+                  "link": "https://codeforces.com/blog/entry/98376"
+                },
+                {
+                  "type": "blog",
+                  "title": "2 Special cases of Gaussian [Tutorial]",
+                  "link": "https://codeforces.com/blog/entry/60003"
+                },
+                {
+                  "type": "blog",
+                  "title": "A (Somehow) Simple (Randomized) Algorithm for Frobenius Form of a Matrix",
+                  "link": "https://codeforces.com/blog/entry/124815"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Permutations",
+              "title": "Permutations",
+              "subtitle": "",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "[Tutorial] A comprehensive guide to permutations for beginners",
+                  "link": "https://codeforces.com/blog/entry/111187"
+                },
+                {
+                  "type": "blog",
+                  "title": "Tutorial on Permutation Tree (析合树）",
+                  "link": "https://codeforces.com/blog/entry/78898"
+                },
+                {
+                  "type": "blog",
+                  "title": "Permutation group basis construction (Schreier–Sims algorithm)",
+                  "link": "https://codeforces.com/blog/entry/111290"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Polynomials, Series and Recurrences",
+              "title": "Polynomials, Series and Recurrences",
+              "subtitle": "",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "Generating FunctionsGeneral theory; algorithms are under FFT",
+                  "title": "Generating Functions",
+                  "subtitle": "General theory; algorithms are under FFT",
+                  "children": [],
+                  "blog_entries": [
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] Generating Functions in Competitive Programming (Part 1)",
+                      "link": "https://codeforces.com/blog/entry/77468"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] Generating Functions in Competitive Programming (Part 2)",
+                      "link": "https://codeforces.com/blog/entry/77551"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "A problem collection of ODE and differential technique",
+                      "link": "https://codeforces.com/blog/entry/76447"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Prefix Sum Polynomial",
+                      "link": "https://codeforces.com/blog/entry/98563"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Combinatorial species: An intuition behind generating functions",
+                      "link": "https://codeforces.com/blog/entry/103979"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Unlabeling combinatorial species (cycle index series)",
+                      "link": "https://codeforces.com/blog/entry/111889"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Moment-generating functions, inversions and q-analogs",
+                      "link": "https://codeforces.com/blog/entry/99598"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "OGFs, EGFs, differentiation and Taylor shifts",
+                      "link": "https://codeforces.com/blog/entry/99646"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Fast polynomial composition",
+                      "link": "https://codeforces.com/blog/entry/101909"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Lagrange inversion theorem",
+                      "link": "https://codeforces.com/blog/entry/104184"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Partitions and pentagonal number theorem",
+                      "link": "https://codeforces.com/blog/entry/104312"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Arrow product: How to enumerate directed graphs",
+                      "link": "https://codeforces.com/blog/entry/115617"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Shift of polynomial sampling points",
+                      "link": "https://codeforces.com/blog/entry/115696"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Unexpected application of cosines",
+                      "link": "https://codeforces.com/blog/entry/113803"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Solving the \"simple math problem\" with generating functions",
+                      "link": "https://codeforces.com/blog/entry/117195"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Shift of polynomial sampling points",
+                      "link": "https://codeforces.com/blog/entry/115696"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "FFT and Similar TransformationsAlgorithms for operating on polynomials",
+                  "title": "FFT and Similar Transformations",
+                  "subtitle": "Algorithms for operating on polynomials",
+                  "children": [],
+                  "blog_entries": [
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] FFT",
+                      "link": "https://codeforces.com/blog/entry/111371"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Tutorial on FFT/NTT — The tough made simple. ( Part 1 )",
+                      "link": "https://codeforces.com/blog/entry/43499"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Notes on FFT / NTT, and the \"ultimate\" NTT with modulus > 9 * 10^18",
+                      "link": "https://codeforces.com/blog/entry/75326"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "On Fast Fourier Transform",
+                      "link": "https://codeforces.com/blog/entry/55572"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Operations on Formal Power Series",
+                      "link": "https://codeforces.com/blog/entry/56422"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Operations on polynomials (on cp-algorithms)",
+                      "link": "https://codeforces.com/blog/entry/65848"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] Generalized Chirp Z-Transform",
+                      "link": "https://codeforces.com/blog/entry/83532"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Discrete Fourier Transform eigenvalues",
+                      "link": "https://codeforces.com/blog/entry/91610"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "A simple way to understand the transposed algo of multi-eval",
+                      "link": "https://codeforces.com/blog/entry/100279"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "An unexpected D&C with FFT",
+                      "link": "https://codeforces.com/blog/entry/103635"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Tutorial: A simple O(n log n) polynomial multiplication algorithm",
+                      "link": "https://codeforces.com/blog/entry/117947"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Introducing the imaginary cyclic convolution, speeding up convolution by a factor of 2",
+                      "link": "https://codeforces.com/blog/entry/106983"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Fast convolution for 64-bit integers",
+                      "link": "https://codeforces.com/blog/entry/45298"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "CDQ convolution (online FFT) generalization with Newton method",
+                      "link": "https://codeforces.com/blog/entry/111399"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "How to composite (some) polynomials faster?",
+                      "link": "https://codeforces.com/blog/entry/126124"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "On implementing O(nlog(n)^2) algorithm of FPS composition",
+                      "link": "https://codeforces.com/blog/entry/127674"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Montgomery/Barret reduction and NTT [Performance optimization]",
+                      "link": "https://codeforces.com/blog/entry/129600"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "Bitwise ConvolutionsXor-, or- and subset convolution, \"set power series\"",
+                  "title": "Bitwise Convolutions",
+                  "subtitle": "Xor-, or- and subset convolution, \"set power series\"",
+                  "children": [],
+                  "blog_entries": [
+                    {
+                      "type": "blog",
+                      "title": "Generalized FWHT: How I realized I did not understand FWHT",
+                      "link": "https://codeforces.com/blog/entry/96003"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Tutorial on Zeta Transform, Mobius Transform and Subset Sum Convolution",
+                      "link": "https://codeforces.com/blog/entry/72488"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Fast Walsh Hadamard Transforms and it's inner workings",
+                      "link": "https://codeforces.com/blog/entry/71899"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Subset convolution interpretation",
+                      "link": "https://codeforces.com/blog/entry/92153"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Optimal Algorithm on Polynomial Composite Set Power Series",
+                      "link": "https://codeforces.com/blog/entry/92183"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "OR Convolution for Common People",
+                      "link": "https://codeforces.com/blog/entry/115438"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] GCD Convolution",
+                      "link": "https://codeforces.com/blog/entry/112346"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] Zeta, Mobius Transform to AND, OR, GCD Convolution",
+                      "link": "https://codeforces.com/blog/entry/119082"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Some SOS DP Insights",
+                      "link": "https://codeforces.com/blog/entry/105247"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] XOR Convolution without math",
+                      "link": "https://codeforces.com/blog/entry/127823"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "Linear Recurrences",
+                  "title": "Linear Recurrences",
+                  "subtitle": "",
+                  "children": [],
+                  "blog_entries": [
+                    {
+                      "type": "blog",
+                      "title": "Matrix Exponentiation tutorial + training contest",
+                      "link": "https://codeforces.com/blog/entry/80195"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "On linear recurrences and the math behind them",
+                      "link": "https://codeforces.com/blog/entry/100158"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Recovering a linear recurrence with the extended Euclidean algorithm",
+                      "link": "https://codeforces.com/blog/entry/101628"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Half-GCD algorithm",
+                      "link": "https://codeforces.com/blog/entry/101850"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Linear Recurrence and Berlekamp-Massey Algorithm",
+                      "link": "https://codeforces.com/blog/entry/61306"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] Berlekamp-Massey",
+                      "link": "https://codeforces.com/blog/entry/96199"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Math note] On the relationship between gf and me",
+                      "link": "https://codeforces.com/blog/entry/92536"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] Solving Linear Recurrences with various methods, Including O(N logN logK) using FFT",
+                      "link": "https://codeforces.com/blog/entry/97627"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "Hadamard product and binomial convolution of linear recurrences",
+                      "link": "https://codeforces.com/blog/entry/103136"
+                    },
+                    {
+                      "type": "blog",
+                      "title": "[Tutorial] An elementary way of solving recurrences",
+                      "link": "https://codeforces.com/blog/entry/124438"
+                    }
+                  ]
+                }
+              ],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "Lagrange interpolation and partial fraction decomposition",
+                  "link": "https://codeforces.com/blog/entry/98386"
+                },
+                {
+                  "type": "blog",
+                  "title": "Computing n! modulo pᵏ for small p",
+                  "link": "https://codeforces.com/blog/entry/116681"
+                },
+                {
+                  "type": "blog",
+                  "title": "Calculating Series Sums with Binary Exponentiation",
+                  "link": "https://codeforces.com/blog/entry/122195"
+                },
+                {
+                  "type": "blog",
+                  "title": "Snapshot of finite calculus and using it to solve a 3000 rated problem",
+                  "link": "https://codeforces.com/blog/entry/133998"
+                },
+                {
+                  "type": "blog",
+                  "title": "The discrete derivative, falling factorials and polynomials",
+                  "link": "https://codeforces.com/blog/entry/134830"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "OptimizationAnything related to mathematical optimization",
+              "title": "Optimization",
+              "subtitle": "Anything related to mathematical optimization",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "Multi-dimensional ternary search",
+                  "link": "https://codeforces.com/blog/entry/98524"
+                },
+                {
+                  "type": "blog",
+                  "title": "Theoretical grounds of lambda optimization",
+                  "link": "https://codeforces.com/blog/entry/98334"
+                },
+                {
+                  "type": "blog",
+                  "title": "Duality in linear programming. Part 1 — definition and construction",
+                  "link": "https://codeforces.com/blog/entry/105049"
+                },
+                {
+                  "type": "blog",
+                  "title": "Duality in linear programming. Part 2 — in competitive programming",
+                  "link": "https://codeforces.com/blog/entry/105789"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "Abstract nonsenseAbstract algebra and friends",
+              "title": "Abstract nonsense",
+              "subtitle": "Abstract algebra and friends",
+              "children": [],
+              "blog_entries": [
+                {
+                  "type": "blog",
+                  "title": "Permutation group basis construction (Schreier–Sims algorithm)",
+                  "link": "https://codeforces.com/blog/entry/111290"
+                },
+                {
+                  "type": "blog",
+                  "title": "Associativity and general identity testing",
+                  "link": "https://codeforces.com/blog/entry/91731"
+                }
+              ]
+            }
+          ],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "[Tutorial] 2-SAT",
+              "link": "https://codeforces.com/blog/entry/92977"
+            },
+            {
+              "type": "blog",
+              "title": "2-SAT Tutorial",
+              "link": "https://codeforces.com/blog/entry/16205"
+            },
+            {
+              "type": "blog",
+              "title": "An interesting algebraic construction",
+              "link": "https://codeforces.com/blog/entry/92306"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Floors, ceilings and inequalities for beginners (with some programming tips)",
+              "link": "https://codeforces.com/blog/entry/113633"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Non-exact and Randomized Algorithms",
+          "title": "Non-exact and Randomized Algorithms",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "[Tutorial] Simulated Annealing in Competitive Programming",
+              "link": "https://codeforces.com/blog/entry/94437"
+            },
+            {
+              "type": "blog",
+              "title": "Randomized algorithms lecture, part 1 & 2",
+              "link": "https://codeforces.com/blog/entry/71097"
+            },
+            {
+              "type": "blog",
+              "title": "Blogewoosh #1",
+              "link": "https://codeforces.com/blog/entry/61205"
+            },
+            {
+              "type": "blog",
+              "title": "Blogewoosh #6",
+              "link": "https://codeforces.com/blog/entry/62602"
+            },
+            {
+              "type": "blog",
+              "title": "On the Number of Runs at the Monte-Carlo Method",
+              "link": "https://codeforces.com/blog/entry/85917"
+            },
+            {
+              "type": "blog",
+              "title": "Randomized general matching with Tutte matrix",
+              "link": "https://codeforces.com/blog/entry/92400"
+            },
+            {
+              "type": "blog",
+              "title": "How randomized solutions can be hacked, and how to make your solution unhackable",
+              "link": "https://codeforces.com/blog/entry/61675"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Sortings",
+          "title": "Sortings",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "Lecture #3 — Exchange arguments (sorting with dp)",
+              "link": "https://codeforces.com/blog/entry/63533"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Square Root TechniquesSQRT decomposition, Mo's algorithm, etc",
+          "title": "Square Root Techniques",
+          "subtitle": "SQRT decomposition, Mo's algorithm, etc",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "[Tutorial] Square Root Techniques",
+              "link": "https://codeforces.com/blog/entry/96713"
+            },
+            {
+              "type": "blog",
+              "title": "An alternative sorting order for Mo's algorithm",
+              "link": "https://codeforces.com/blog/entry/61203"
+            },
+            {
+              "type": "blog",
+              "title": "Mo's Algorithm on Trees [Tutorial]",
+              "link": "https://codeforces.com/blog/entry/43230"
+            },
+            {
+              "type": "blog",
+              "title": "Sqrt-tree: answering queries in O(1) with O(NloglogN) preprocessing.",
+              "link": "https://codeforces.com/blog/entry/57046"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Square root decomposition and applications",
+              "link": "https://codeforces.com/blog/entry/83248"
+            },
+            {
+              "type": "blog",
+              "title": "Unknown Data Structure — (Sqrt Fragmented Tree)",
+              "link": "https://codeforces.com/blog/entry/46843"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Subset Sum Square Root Optimisation",
+              "link": "https://codeforces.com/blog/entry/97396"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Strings",
+          "title": "Strings",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "[Tutorial] Dynamic Suffix Arrays",
+              "link": "https://codeforces.com/blog/entry/93042"
+            },
+            {
+              "type": "blog",
+              "title": "On suffix automaton (and tree)",
+              "link": "https://codeforces.com/blog/entry/22420"
+            },
+            {
+              "type": "blog",
+              "title": "Aho-Corasick algorithm. Construction",
+              "link": "https://codeforces.com/blog/entry/14854"
+            },
+            {
+              "type": "blog",
+              "title": "A short guide to suffix automata",
+              "link": "https://codeforces.com/blog/entry/20861"
+            },
+            {
+              "type": "blog",
+              "title": "Palindromic tree: behind the scenes",
+              "link": "https://codeforces.com/blog/entry/13959"
+            },
+            {
+              "type": "blog",
+              "title": "A bit more about palindromes",
+              "link": "https://codeforces.com/blog/entry/19193"
+            },
+            {
+              "type": "blog",
+              "title": "The history of some recurring problem",
+              "link": "https://codeforces.com/blog/entry/62331"
+            },
+            {
+              "type": "blog",
+              "title": "Suffix tree. Ukkonen's algorithm",
+              "link": "https://codeforces.com/blog/entry/16780"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Expected number of coin flips required to achieve a given string",
+              "link": "https://codeforces.com/blog/entry/98808"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Dictionary of Basic Factors — O(1) String Matching",
+              "link": "https://codeforces.com/blog/entry/92092"
+            },
+            {
+              "type": "blog",
+              "title": "Z Algorithm",
+              "link": "https://codeforces.com/blog/entry/3107"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] On Variations of String Matching",
+              "link": "https://codeforces.com/blog/entry/111380"
+            },
+            {
+              "type": "blog",
+              "title": "Random notes on Lyndon decomposition",
+              "link": "https://codeforces.com/blog/entry/106725"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Sweeping Line",
+          "title": "Sweeping Line",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "How to sweep like a Sir",
+              "link": "https://codeforces.com/blog/entry/20377"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Finding inclusion hierarchy among circles — An implementation of a sweep-line algorithm",
+              "link": "https://codeforces.com/blog/entry/98782"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Two Pointers",
+          "title": "Two Pointers",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "EDU: Two Pointers Method",
+              "link": "https://codeforces.com/blog/entry/87248"
+            }
+          ]
+        }
+      ],
+      "blog_entries": []
+    },
+    {
+      "type": "folder",
+      "name": "Programming Languages",
+      "title": "Programming Languages",
+      "subtitle": "",
+      "children": [
+        {
+          "type": "folder",
+          "name": "C++",
+          "title": "C++",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "C++ Tricks",
+              "link": "https://codeforces.com/blog/entry/15643"
+            },
+            {
+              "type": "blog",
+              "title": "Catching silly mistakes with GCC",
+              "link": "https://codeforces.com/blog/entry/15547"
+            },
+            {
+              "type": "blog",
+              "title": "Don't use rand(): a guide to random number generators in C++",
+              "link": "https://codeforces.com/blog/entry/61587"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] GCC Optimization Pragmas",
+              "link": "https://codeforces.com/blog/entry/96344"
+            },
+            {
+              "type": "blog",
+              "title": "C++ tips and tricks",
+              "link": "https://codeforces.com/blog/entry/74684"
+            },
+            {
+              "type": "blog",
+              "title": "Performance tip : using std::deque as a memory cache",
+              "link": "https://codeforces.com/blog/entry/60321"
+            },
+            {
+              "type": "blog",
+              "title": "C++ STL: Policy based data structures",
+              "link": "https://codeforces.com/blog/entry/11080"
+            },
+            {
+              "type": "blog",
+              "title": "Implicit cartesian tree in GNU C++ STL.",
+              "link": "https://codeforces.com/blog/entry/10355"
+            },
+            {
+              "type": "blog",
+              "title": "A way to use C++ iostream for large input (gcc only)",
+              "link": "https://codeforces.com/blog/entry/925"
+            },
+            {
+              "type": "blog",
+              "title": "Tutorial on SIMD vectorisation to speed up brute force",
+              "link": "https://codeforces.com/blog/entry/98594"
+            },
+            {
+              "type": "blog",
+              "title": "Generic data structure templates via C++ mixins",
+              "link": "https://codeforces.com/blog/entry/91235"
+            },
+            {
+              "type": "blog",
+              "title": "Explanation to weird/strange floating point behaviour in C++",
+              "link": "https://codeforces.com/blog/entry/78161"
+            },
+            {
+              "type": "blog",
+              "title": "How NOT to use macros",
+              "link": "https://codeforces.com/blog/entry/100941"
+            },
+            {
+              "type": "blog",
+              "title": "How to get actual 64 bit bitsets on Codeforces [Not Recommended] [Don't do this at your job]",
+              "link": "https://codeforces.com/blog/entry/77480"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Writing C++ like Python: tricks Python doesn't want you to know",
+              "link": "https://codeforces.com/blog/entry/111253"
+            },
+            {
+              "type": "blog",
+              "title": "Template Metaprogramming in C++ Part 1 / Infinity",
+              "link": "https://codeforces.com/blog/entry/112926"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Quick start in solving problems on GPU + CPU",
+              "link": "https://codeforces.com/blog/entry/117156"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] On lambdas, C++ and otherwise: the what, the why, and the how",
+              "link": "https://codeforces.com/blog/entry/122881"
+            },
+            {
+              "type": "blog",
+              "title": "[C++] Avoiding temporaries — generalizing i++ using std::exchange",
+              "link": "https://codeforces.com/blog/entry/122714"
+            },
+            {
+              "type": "blog",
+              "title": "[Bugged] Dynamic Bitsets in GCC",
+              "link": "https://codeforces.com/blog/entry/129454"
+            },
+            {
+              "type": "blog",
+              "title": "C++ STL: Order of magnitude faster hash tables with Policy Based Data Structures",
+              "link": "https://codeforces.com/blog/entry/60737"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "D",
+          "title": "D",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "The D programming language in competitive programming",
+              "link": "https://codeforces.com/blog/entry/60890"
+            }
+          ]
+        }
+      ],
+      "blog_entries": []
+    },
+    {
+      "type": "folder",
+      "name": "MetaPosts that are important for competitive programming as a whole",
+      "title": "Meta",
+      "subtitle": "Posts that are important for competitive programming as a whole",
+      "children": [
+        {
+          "type": "folder",
+          "name": "Tools",
+          "title": "Tools",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "CF-Predictor — Know your rating changes!",
+              "link": "https://codeforces.com/blog/entry/50411"
+            },
+            {
+              "type": "blog",
+              "title": "Multiple rating graph with other accounts",
+              "link": "https://codeforces.com/blog/entry/1743"
+            },
+            {
+              "type": "blog",
+              "title": "Have you already seen the history of ratings on clist?",
+              "link": "https://codeforces.com/blog/entry/77516"
+            },
+            {
+              "type": "blog",
+              "title": "Codeforces Extensions",
+              "link": "https://codeforces.com/blog/entry/82884"
+            },
+            {
+              "type": "blog",
+              "title": "Gym Finder",
+              "link": "https://codeforces.com/blog/entry/98687"
+            },
+            {
+              "type": "blog",
+              "title": "Userscript: table view in Catalog",
+              "link": "https://codeforces.com/blog/entry/101260"
+            },
+            {
+              "type": "blog",
+              "title": "Finally, semantic search for competitive programming problems",
+              "link": "https://codeforces.com/blog/entry/122385"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Libraries",
+          "title": "Libraries",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "AtCoder Library",
+              "link": "https://codeforces.com/blog/entry/82400"
+            },
+            {
+              "type": "blog",
+              "title": "New online judge: Library-Checker!",
+              "link": "https://codeforces.com/blog/entry/76945"
+            },
+            {
+              "type": "blog",
+              "title": "(The Ultimate) Code Library",
+              "link": "https://codeforces.com/blog/entry/94933"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "AnnouncementsResources that help keeping track of upcoming contests.",
+          "title": "Announcements",
+          "subtitle": "Resources that help keeping track of upcoming contests.",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "pe in 30",
+              "link": "https://codeforces.com/blog/entry/98571"
+            },
+            {
+              "type": "blog",
+              "title": "Resource clist.x10.mx moved to clist.by",
+              "link": "https://codeforces.com/blog/entry/4041"
+            }
+          ]
+        }
+      ],
+      "blog_entries": []
+    },
+    {
+      "type": "folder",
+      "name": "Problem and Contest Preparation",
+      "title": "Problem and Contest Preparation",
+      "subtitle": "",
+      "children": [
+        {
+          "type": "folder",
+          "name": "Testlib and Polygon",
+          "title": "Testlib and Polygon",
+          "subtitle": "",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "Briefly about testlib.h",
+              "link": "https://codeforces.com/blog/entry/18289"
+            },
+            {
+              "type": "blog",
+              "title": "Generators with testlib.h",
+              "link": "https://codeforces.com/blog/entry/18291"
+            },
+            {
+              "type": "blog",
+              "title": "Validators with testlib.h",
+              "link": "https://codeforces.com/blog/entry/18426"
+            },
+            {
+              "type": "blog",
+              "title": "Checkers with testlib.h",
+              "link": "https://codeforces.com/blog/entry/18431"
+            },
+            {
+              "type": "blog",
+              "title": "Interactors with testlib.h",
+              "link": "https://codeforces.com/blog/entry/18455"
+            },
+            {
+              "type": "blog",
+              "title": "10 Reasons to Prepare Problems in Polygon",
+              "link": "https://codeforces.com/blog/entry/14184"
+            },
+            {
+              "type": "blog",
+              "title": "[Tutorial] Polygon.Codeforces Tutorial — A Guide to Problem Preparation [Part 1]",
+              "link": "https://codeforces.com/blog/entry/101072"
+            },
+            {
+              "type": "blog",
+              "title": "Polygon Updates (Fall-Winter 2014)",
+              "link": "https://codeforces.com/blog/entry/15345"
+            },
+            {
+              "type": "blog",
+              "title": "Testlib and Polygon Updates (June, 2015)",
+              "link": "https://codeforces.com/blog/entry/18958"
+            },
+            {
+              "type": "blog",
+              "title": "Testlib and Polygon Updates [July, 2018]",
+              "link": "https://codeforces.com/blog/entry/60759"
+            },
+            {
+              "type": "blog",
+              "title": "Polygon updates (June-October 2019)",
+              "link": "https://codeforces.com/blog/entry/71247"
+            },
+            {
+              "type": "blog",
+              "title": "Polygon Updates (June — August 2021)",
+              "link": "https://codeforces.com/blog/entry/94047"
+            },
+            {
+              "type": "blog",
+              "title": "Testlib: Opts — parsing command line options",
+              "link": "https://codeforces.com/blog/entry/72702"
+            },
+            {
+              "type": "blog",
+              "title": "Testlib: tests + CI",
+              "link": "https://codeforces.com/blog/entry/105263"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "ProblemsettingInterviews with problemsetters, how to come up with problem ideas etc.",
+          "title": "Problemsetting",
+          "subtitle": "Interviews with problemsetters, how to come up with problem ideas etc.",
+          "children": [],
+          "blog_entries": [
+            {
+              "type": "blog",
+              "title": "How to come up with problem ideas",
+              "link": "https://codeforces.com/blog/entry/66837"
+            },
+            {
+              "type": "blog",
+              "title": "On problemsetting",
+              "link": "https://codeforces.com/blog/entry/70178"
+            },
+            {
+              "type": "blog",
+              "title": "On problemsetting 2",
+              "link": "https://codeforces.com/blog/entry/73015"
+            },
+            {
+              "type": "blog",
+              "title": "Way of problemsetter",
+              "link": "https://codeforces.com/blog/entry/12642"
+            },
+            {
+              "type": "blog",
+              "title": "What is it like to be a problem writer?",
+              "link": "https://codeforces.com/blog/entry/3857"
+            },
+            {
+              "type": "blog",
+              "title": "Problemsetter's Memoir",
+              "link": "https://codeforces.com/blog/entry/12683"
+            },
+            {
+              "type": "blog",
+              "title": "About Problemsetting (for AtCoder and Codeforces)",
+              "link": "https://codeforces.com/blog/entry/85424"
+            },
+            {
+              "type": "blog",
+              "title": "[Problemsetting] How to write editorials for a contest",
+              "link": "https://codeforces.com/blog/entry/112635"
+            },
+            {
+              "type": "blog",
+              "title": "Insights from testing and preparing contests, and why problemsetting trends need to change",
+              "link": "https://codeforces.com/blog/entry/111854"
+            }
+          ]
+        }
+      ],
+      "blog_entries": []
+    },
+    {
+      "type": "folder",
+      "name": "Interviews",
+      "title": "Interviews",
+      "subtitle": "",
+      "children": [],
+      "blog_entries": [
+        {
+          "type": "blog",
+          "title": "EPISODE 1: Interview with Um_nik",
+          "link": "https://codeforces.com/blog/entry/113733"
+        },
+        {
+          "type": "blog",
+          "title": "700 contests. ruban's interview",
+          "link": "https://codeforces.com/blog/entry/90790"
+        },
+        {
+          "type": "blog",
+          "title": "How to be red: Arpa",
+          "link": "https://codeforces.com/blog/entry/88262"
+        },
+        {
+          "type": "blog",
+          "title": "deltixlab’s interview: Deltix rounds back story",
+          "link": "https://codeforces.com/blog/entry/97726"
+        }
+      ]
+    }
+  ]
+}
